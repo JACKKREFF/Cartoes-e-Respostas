@@ -1,13 +1,14 @@
 criaCartao(
-    'Florianópolis',
+    'Santa Catarina',
     'Qual a capital estado do Rio Grando Do Sul?',
     'Florianópolis'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Florianópolis',
+    'Qual a capital estado do Rio Grando Do Sul?',
+    'Florianópolis'
+
 )
 
 criaCartao(
