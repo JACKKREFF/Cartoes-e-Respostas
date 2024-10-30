@@ -1,24 +1,55 @@
 criaCartao(
-    'Santa Catarina',
-    'Qual a capital estado do Rio Grando Do Sul?',
+    'Capitais',
+    'Qual a capital estado de Santa Catarina?',
     'Florianópolis'
+    
 )
 
 criaCartao(
-    'Florianópolis',
-    'Qual a capital estado do Rio Grando Do Sul?',
-    'Florianópolis'
+    'Capitais',
+    'Qual a capital estado do Paraná?',
+    'Curitiba'
 
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Capitais',
+    'Qual a capital estado de São Paulo?',
+    'São Paulo'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Capitais',
+    'Qual a capital estado de Minas Gerais?',
+    'Belo Horizonte'
+)
+criaCartao(
+    'Capitais',
+    'Qual a capital estado de Mato Grosso do Sul?',
+    'Campo Grande'
+)
+criaCartao(
+    'Capitais',
+    'Qual a capital estado de Rio de Janeiro?',
+    'Rio de Janeiro'
+)
+criaCartao(
+    'Capitais',
+    'Qual a capital estado de Espirito Santo?',
+    'Vitória'
+)
+criaCartao(
+    'Capitais',
+    'Qual a capital estado de Goiás?',
+    'Goiânia '
+)
+criaCartao(
+    'Capitais',
+    'Qual a capital estado de Mato Grosso?',
+    'Cuiabá'
+)
+criaCartao(
+    'Capitais',
+    'Qual a capital estado de Rondônia?',
+    'Porto Velho'
 )
