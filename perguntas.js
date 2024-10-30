@@ -1,7 +1,7 @@
 criaCartao(
     'Florianópolis',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Qual a capital estado do Rio Grando Do Sul?',
+    'Florianópolis'
 )
 
 criaCartao(
